@@ -1,0 +1,49 @@
+/*********HOME AND ABOUT PAGES********/
+html {
+	background-color: #236A62;
+}
+
+body {
+	background-color: #109E8F;
+	margin: 0 auto;
+	max-width: 960px;
+}	
+
+
+/*********HOME PAGE************/
+
+.title {
+	text-align: center;
+	margin-right: 1%; 
+	margin-left: 1%;
+}
+
+
+#title {
+	color: #00FFE4;
+	font-size: 4rem;
+}
+/*******************************
+        MAIN PAGE
+*******************************/
+#by {
+	color: #1E3532;
+}
+
+#intro {
+	color: #00FFE4;
+	font-size: 100%;
+}
+
+img.small {
+	border: 15px solid #1E3532;
+	height: 200px;
+	width: 200px;
+	
+}
+
+.col-xs-12 {
+	margin: 5% 0;
+}
+
+
